@@ -1,73 +1,113 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Nimmanapalli Ukesh Reddy</h1>
 
-<!--
-**ukesh0509/ukesh0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Data Engineer · Computer Science & Engineering Student</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on## Hi, I'm Nimmanapalli Ukesh Reddy 👋
-
-Computer Science Engineering Student | Aspiring Data Engineer
-
-I build data pipelines, analytics solutions, and cloud-based projects using Python, SQL, Apache Spark, and AWS.
-<h1 align="center">Hi 👋, I'm NIMMANAPALLI UKESH REDDY</h1>
-<h3 align="center">Computer Science Engineering Student | Aspiring Data Engineer | Python, SQL, Big Data & AWS</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ukesh0509&label=Profile%20views&color=0e75b6&style=flat" alt="ukesh0509" /> </p>
-
-- 🔭 I’m currently working on **Shipment Tracking and Analytics using AWS**
-
-- 🌱 I’m currently learning **Apache Spark (PySpark), AWS data services,**
-
-- 👯 I’m looking to collaborate on **Data Engineering, Big Data Analytics, and Fraud Detection projects**
-
-- 🤝 I’m looking for help with **Building scalable AWS data pipelines and improving Spark-based machine learning workflows**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ukesh0509](https://github.com/ukesh0509)
-
-- 💬 Ask me about **Python, SQL, PySpark, Hadoop, Apache Pig, Kafka, Docker, MongoDB, and AWS**
-
-- 📫 How to reach me **ukesh.n999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q2pGQ_3T-dET6QIJZKiS1pe2sarC3nzo/view?usp=drive_link](https://drive.google.com/file/d/1Q2pGQ_3T-dET6QIJZKiS1pe2sarC3nzo/view?usp=drive_link)
-
-- ⚡ Fun fact **I enjoy turning raw data into meaningful insights and building practical projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ukesh reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ukesh reddy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ukesh_n999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ukesh_n999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ukesh_0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ukesh_0905" height="30" width="40" /></a>
+<p align="center">
+  I build data pipelines and analytics projects with Python, SQL, PySpark, and AWS,<br>
+  with a focus on turning raw data into reliable, well-structured datasets.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-technical-skills">Skills</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-current-learning">Learning</a> ·
+  <a href="#-github-activity">Activity</a> ·
+  <a href="#-connect-with-me">Connect</a>
+</p>
 
-### 🚀 What I'm Working On
-- Shipment Tracking and Analytics using AWS
-- Big Data processing with PySpark
-- Financial Fraud Detection using Machine Learning
+## 👤 About Me
 
-### 🛠️ Technical Skills
-- **Languages:** Python, SQL
-- **Big Data:** Apache Spark (PySpark), Hadoop, Apache Pig, Kafka
-- **Cloud:** AWS S3, AWS Glue, AWS Lambda, Amazon Redshift
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, Docker, VS Code
+I'm a Computer Science and Engineering student working toward a career in data engineering. I'm most interested in the work that happens before the dashboard: ingesting raw data, cleaning and transforming it, and making it dependable enough to analyze.
 
-### 📌 Featured Projects
-- [AWS S3 Static Website Hosting](https://github.com/ukesh0509/AWS-S3-Static-Hosting)
-- [Telco Customer Churn Analysis](https://github.com/ukesh0509/telco-customer-churn-analysis)
-- [View All My Repositories](https://github.com/ukesh0509?tab=repositories)
+My projects so far cover cloud-based pipelines on AWS, distributed processing with PySpark and Hadoop, streaming with Kafka, and exploratory analytics and machine learning. I use them to understand how scalable data systems fit together, and I'm looking for internships and entry-level roles where I can keep building that depth.
 
-### 📫 Connect With Me
-- GitHub: [ukesh0509](https://github.com/ukesh0509)
-- Email: ukesh.n999@gmail.com ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technical Skills
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/><br>SQL |
+| **Big Data & Streaming** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" title="Apache Spark (PySpark)" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" title="Hadoop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" title="Apache Kafka" width="40" height="40"/><br>PySpark · Hadoop · Apache Pig · Kafka |
+| **Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/><br>S3 · Glue · Lambda · Redshift · Athena · SNS · SQS · Step Functions · EventBridge · CloudWatch · IAM |
+| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="40" height="40"/> |
+| **Analytics & ML** | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/> |
+| **Monitoring & Visualization** | <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" title="Elasticsearch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" title="Kibana" width="40" height="40"/> |
+| **Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/><br>Git · GitHub · VS Code |
+| **Data Engineering** | ETL pipelines · Batch processing · Data transformation |
+
+## 🚀 Featured Projects
+
+### 🚚 Shipment Tracking and Analytics using AWS
+*In progress*
+
+A cloud-based data engineering project covering shipment data ingestion, ETL processing, and analytics on AWS. It is my main hands-on project for learning how pipeline stages connect in a cloud environment.
+
+**Tech:** Python · SQL · AWS
+<!-- TODO: Edit the tech line to match the AWS services actually used in the repo. -->
+<!-- TODO: Add verified link → [Repository](https://github.com/ukesh0509/REPO_NAME) -->
+
+### 🔍 Financial Fraud Detection
+
+A PySpark-based machine learning project that applies classification algorithms to transaction data to identify potentially fraudulent activity.
+
+**Tech:** Python · PySpark · Machine Learning
+<!-- TODO: Add verified link → [Repository](https://github.com/ukesh0509/REPO_NAME) -->
+
+### 🏠 House Analytics
+
+A big data project that combines batch and streaming tools: Hadoop and Apache Pig for processing, Kafka for data movement, Elasticsearch and Kibana for search and visualization, and Docker for packaging the environment.
+
+**Tech:** Hadoop · Apache Pig · Kafka · Elasticsearch · Kibana · Docker
+<!-- TODO: Add verified link → [Repository](https://github.com/ukesh0509/REPO_NAME) -->
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+- 🛒 **Customer Purchase Prediction:** a machine learning project exploring customer purchasing behavior and prediction.
+- 🏨 **Hotel Pre-Booking Analytics:** a data analysis and dashboard project built on hotel booking data, using MongoDB.
+- 🍴 **Restaurant Market Analysis:** an analysis of restaurant data with visualizations and business insights.
+
+</details>
+
+Browse everything on my [GitHub repositories page](https://github.com/ukesh0509?tab=repositories).
+
+## 📚 Current Learning
+
+I'm currently focused on:
+
+- **PySpark and distributed processing:** how Spark executes work across a cluster, and how to structure transformations efficiently.
+- **AWS data services:** building pipelines with services such as S3, Glue, Athena, Redshift, and Step Functions.
+- **Scalable ETL design:** batch processing, data transformation, and orchestration patterns that hold up as data grows.
+- **Spark-based ML workflows:** improving how I build and structure machine learning pipelines in PySpark.
+
+I'm open to collaborating on data engineering, big data analytics, and fraud detection projects.
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ukesh0509&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=E0E6ED&icon_color=4FC3F7" alt="GitHub stats for ukesh0509" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukesh0509&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=E0E6ED" alt="Most used languages for ukesh0509" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ukesh0509&bg_color=0D1B2A&color=8AB4F8&line=4FC3F7&point=FFFFFF&area=true&area_color=1B3A5C&hide_border=true" alt="Contribution graph for ukesh0509" width="100%">
+</p>
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:ukesh.n999@gmail.com"><img src="https://img.shields.io/badge/Email-ukesh.n999@gmail.com-1B3A5C?style=flat-square" alt="Email"></a>
+  <a href="https://github.com/ukesh0509"><img src="https://img.shields.io/badge/GitHub-ukesh0509-2D3748?style=flat-square" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/ukesh%20reddy"><img src="https://img.shields.io/badge/LinkedIn-Profile-1B3A5C?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/ukesh_n999"><img src="https://img.shields.io/badge/HackerRank-ukesh__n999-2D3748?style=flat-square" alt="HackerRank"></a>
+  <a href="https://leetcode.com/ukesh_0905"><img src="https://img.shields.io/badge/LeetCode-ukesh__0905-2D3748?style=flat-square" alt="LeetCode"></a>
+  <a href="https://drive.google.com/file/d/1Q2pGQ_3T-dET6QIJZKiS1pe2sarC3nzo/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-1B3A5C?style=flat-square" alt="Resume"></a>
+</p>
+
+<!-- TODO: The LinkedIn URL above is provisional and likely incorrect (it contains a space). Replace it with your verified profile URL, e.g. https://www.linkedin.com/in/your-handle -->
+
+<p align="center">
+  <i>I'm interested in building data systems that are reliable, scalable, and easy to reason about, and I'm always looking for the next pipeline to build and learn from.</i>
+</p>
